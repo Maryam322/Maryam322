@@ -1,4 +1,4 @@
-# Hi, I'm Maryam Fatima 👋
+# Hi, I'm Maryam Fatima 
 
 ### Full Stack Developer | Building Web & AI Solutions
 
@@ -8,20 +8,20 @@ Currently, I'm expanding my skills in **React.js, TypeScript, AI/ML, and modern 
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-* 🎓 Computer Science Student
-* 💻 Full Stack Web Developer
-* 🐍 Building backend applications with Python & Django
-* ⚛️ Developing interactive interfaces with React.js & JavaScript
-* 🗄️ Working with MySQL, PostgreSQL & SQLite
-* 🔐 Building REST APIs & authentication systems
-* 🤖 Exploring AI/ML and Computer Vision
-* 🚀 Interested in building practical, real-world software solutions
+*  Computer Science Student
+*  Full Stack Web Developer
+*  Building backend applications with Python & Django
+*  Developing interactive interfaces with React.js & JavaScript
+*  Working with MySQL, PostgreSQL & SQLite
+*  Building REST APIs & authentication systems
+*  Exploring AI/ML and Computer Vision
+*  Interested in building practical, real-world software solutions
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -45,9 +45,9 @@ Git • GitHub • VS Code • Postman • Figma
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏠 Real Estate Platform
+###  Real Estate Platform
 
 A full-stack real-estate platform designed to connect users with properties and agents.
 
@@ -57,7 +57,7 @@ A full-stack real-estate platform designed to connect users with properties and 
 
 ---
 
-### 🛒 DailyBuy — Online Grocery Store
+###  DailyBuy — Online Grocery Store
 
 A Django-based e-commerce application for browsing products, managing carts, placing orders and handling products through an admin interface.
 
@@ -65,7 +65,7 @@ A Django-based e-commerce application for browsing products, managing carts, pla
 
 ---
 
-### 🤖 Object Detection Application
+###  Object Detection Application
 
 An AI-powered computer vision application for detecting objects using a YOLO-based model, with a Django backend and mobile frontend.
 
@@ -73,7 +73,7 @@ An AI-powered computer vision application for detecting objects using a YOLO-bas
 
 ---
 
-### 💰 Expense Tracker
+###  Expense Tracker
 
 A client-side web application for managing expenses, budgets, recurring bills and transactions with browser-based data persistence.
 
@@ -81,10 +81,8 @@ A client-side web application for managing expenses, budgets, recurring bills an
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
-* React.js & TypeScript
-* Advanced Django & REST APIs
 * AI / Machine Learning
 * Computer Vision
 * LLMs & AI-powered applications
@@ -92,15 +90,15 @@ A client-side web application for managing expenses, budgets, recurring bills an
 
 ---
 
-## 🎯 What I'm Working Toward
+##  What I'm Working Toward
 
 Building stronger full-stack development skills while exploring the intersection of **web development and AI** — with the goal of creating useful software that solves real problems.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 Email:maryamzakir0323@gmail.com
 
 Linkedin:www.linkedin.com/in/maryam32
 
-### 💡 Build. Learn. Improve. Repeat.
+###  Build. Learn. Improve. Repeat.
