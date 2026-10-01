@@ -37,7 +37,11 @@ MySQL • PostgreSQL • SQLite
 
 ### AI / ML
 
-Python • Machine Learning • Computer Vision • YOLO
+ Machine Learning • Computer Vision • YOLO
+ Scikit-learn • TensorFlow • Keras • NLP
+
+### Data Visualization
+Pandas • NumPy • Matplotlib
 
 ### Tools
 
