@@ -4,7 +4,7 @@
 
 I build full-stack web applications and AI-powered solutions, working across frontend, backend, databases, and APIs. My focus is on turning ideas into practical applications with clean interfaces, reliable backend systems, and real-world functionality.
 
-Currently, I'm expanding my skills in **React.js, TypeScript, AI/ML, and modern full-stack development** while building projects that strengthen my problem-solving and software development skills.
+Currently, I'm expanding my skills in **AI/ML, and modern full-stack development** while building projects that strengthen my problem-solving and software development skills.
 
 ---
 
